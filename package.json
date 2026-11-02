@@ -1,0 +1,14 @@
+{
+  "name": "atividadeexpress",
+  "version": "1.0.0",
+  "description": "Atividade Express - Aula 6 (Programação Web 1)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
